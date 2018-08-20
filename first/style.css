@@ -42,22 +42,24 @@ font-size: 19px;}
 	font-size: 19px;
 	transition:0.5s;
 	border-radius:5px;
-	position:relative;
+	position:sticky;
 	padding: 10px;
 	text-decoration: none;
 }
 a:hover{
 		color: green;
 }
-.a1 {color: white;
+.a1 {
+	font-size:350%;
+	color: white;
 	height: 250px;
 	font-weight: bold;
-	padding-top: 103px;
+	padding-top: 140px
 }
 .a2{
 	text-align: center;
-padding-top: 40px;
-color:#29e429;
+	padding-top: 40px;
+	color:#29e429;
 }
 
 .a3{
